@@ -491,4 +491,5 @@ toint64 çok daha büyük tam sayılar için kullanılıyor.
 CTRL  k ve d tuşlarına aynı anda basarak kodlarınızı düzenletebilirsiniz.
 
 ### 16. Double Değişkenler.
-devam edicek.
+devam edicek. 27.04.2023
+NE ZAMAN DEVAM EDECEK ? 05.05.2023
